@@ -1,0 +1,12 @@
+# dev env ====
+JWT_SECRET="" #Used in the creation of JWT tokens
+
+# ---- Local DB ---- #
+MYSQL_HOST="" #Host for MYSQL Connection
+MYSQL_USER="" #User for MYSQL Connection
+MYSQL_PASSWORD="" #Password for MYSQL Connection
+MYSQL_DB="" #Database for the MYSQL Connection
+
+MYSQL_TABLE_RESULTS="" #Table name to be used for the results
+MYSQL_TABLE_QUERIES="" #Table name to be used for the queries
+MYSQL_TABLE_SOURCE=""  #Table name to be used for the sources
